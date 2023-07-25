@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Practice1",
+    "\\Practice1\\Practice.API",
+    "\\Practice1\\Practice.Domain"
   ],
-  "SelectedNode": "\\C:\\Users\\hp\\Source\\Repos\\G4-practice",
+  "SelectedNode": "\\Practice1\\Practice.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

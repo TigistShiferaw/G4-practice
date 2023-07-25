@@ -1,7 +1,7 @@
-﻿using CineFlex.Persistence;
-using Practice.Application.Contract;
+﻿using Practice.Application.Contract;
 using Practice.Application.Contrat;
 using Practice.Domain;
+using Practice.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Text;

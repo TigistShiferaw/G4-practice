@@ -9,7 +9,7 @@ using Practice.Domain;
 using System.Threading;
 using Practice.Domain.Common;
 
-namespace CineFlex.Persistence
+namespace Practice.Persistence
 {
     public class PracticeDbContext : DbContext
     {
