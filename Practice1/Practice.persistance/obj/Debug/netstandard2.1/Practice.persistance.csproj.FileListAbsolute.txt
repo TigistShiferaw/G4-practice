@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.persistance.deps.json
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.persistance.dll
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.persistance.pdb
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.Application.dll
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.Domain.dll
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.Application.pdb
+C:\Users\hp\Desktop\Practice1\Practice.persistance\bin\Debug\netstandard2.1\Practice.Domain.pdb
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.AssemblyInfo.cs
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.csproj.CopyComplete
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.dll
+C:\Users\hp\Desktop\Practice1\Practice.persistance\obj\Debug\netstandard2.1\Practice.persistance.pdb

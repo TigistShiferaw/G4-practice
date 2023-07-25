@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\bin\Debug\netstandard2.1\Practice.infrastructure.deps.json
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\bin\Debug\netstandard2.1\Practice.infrastructure.dll
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\bin\Debug\netstandard2.1\Practice.infrastructure.pdb
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.AssemblyInfo.cs
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.dll
+C:\Users\hp\Desktop\Practice1\Practice.infrastructure\obj\Debug\netstandard2.1\Practice.infrastructure.pdb

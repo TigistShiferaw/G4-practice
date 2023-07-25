@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Practice1\Practice.Application\bin\Debug\netstandard2.1\Practice.Application.deps.json
+C:\Users\hp\Desktop\Practice1\Practice.Application\bin\Debug\netstandard2.1\Practice.Application.dll
+C:\Users\hp\Desktop\Practice1\Practice.Application\bin\Debug\netstandard2.1\Practice.Application.pdb
+C:\Users\hp\Desktop\Practice1\Practice.Application\bin\Debug\netstandard2.1\Practice.Domain.dll
+C:\Users\hp\Desktop\Practice1\Practice.Application\bin\Debug\netstandard2.1\Practice.Domain.pdb
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.AssemblyInfo.cs
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.csproj.CopyComplete
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.dll
+C:\Users\hp\Desktop\Practice1\Practice.Application\obj\Debug\netstandard2.1\Practice.Application.pdb
